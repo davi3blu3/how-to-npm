@@ -1,0 +1,22 @@
+{
+  "name": "@davi3blu3/project",
+  "version": "1.0.0",
+  "description": "how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davi3blu3/how-to-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davi3blu3/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/davi3blu3/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
